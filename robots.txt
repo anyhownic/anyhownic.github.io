@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anyhownic.github.io/sitemap.html.gz
+Sitemap: https://anyhownic.github.io/app/sitemap.html.gz
+Sitemap: https://anyhownic.github.io/assets/sitemap.html.gz
+Sitemap: https://anyhownic.github.io/css/sitemap.html.gz
+Sitemap: https://anyhownic.github.io/includes/sitemap.html.gz
+Sitemap: https://anyhownic.github.io/item/sitemap.html.gz
+Sitemap: https://anyhownic.github.io/src/sitemap.html.gz
